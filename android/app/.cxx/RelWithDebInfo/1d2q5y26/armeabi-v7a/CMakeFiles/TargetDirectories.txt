@@ -1,0 +1,2 @@
+D:/musicplayer/android/app/.cxx/RelWithDebInfo/1d2q5y26/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/musicplayer/android/app/.cxx/RelWithDebInfo/1d2q5y26/armeabi-v7a/CMakeFiles/rebuild_cache.dir

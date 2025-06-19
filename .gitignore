@@ -1,0 +1,48 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Build outputs
+build/
+
+# iOS specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Podfile.lock
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# macOS specific
+macos/Flutter/ephemeral/
+
+# Windows specific
+windows/Flutter/ephemeral/
+
+# Web specific
+web/.dart_tool/
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+
+# IDE specific
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+
+# Generated files
+pubspec.lock

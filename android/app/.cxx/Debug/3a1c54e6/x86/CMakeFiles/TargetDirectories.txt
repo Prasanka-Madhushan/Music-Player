@@ -1,0 +1,2 @@
+D:/musicplayer/android/app/.cxx/Debug/3a1c54e6/x86/CMakeFiles/edit_cache.dir
+D:/musicplayer/android/app/.cxx/Debug/3a1c54e6/x86/CMakeFiles/rebuild_cache.dir
